@@ -31,7 +31,7 @@ El objetivo del proyecto es reforzar el uso de condicionales y operadores lógic
 - Programación estructurada  
 
 #
-## ⚙️ Funcionamiento
+### ⚙️ Funcionamiento
 1. El programa solicita el nombre de usuario.
 2. Se solicita la contraseña correspondiente.
 3. El sistema compara los datos ingresados con las credenciales definidas.
